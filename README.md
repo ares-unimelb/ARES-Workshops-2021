@@ -8,4 +8,4 @@ Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/8567
 |---|---|---|
 |01|[Meet & Greet](./slides/ws1.pdf)|In-person at South Lawn|
 |02|[Phobos - Part 1](./slides/ws2.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=kmtaQ6ULfso&t=1489s)|
-|03|[Phobos - Part 2](./slides/WS3\ -\ Phobos\ -\ Part\ 2.pdf)|Online
+|03|[Phobos - Part 2](./slides/WS3%20-%20Phobos%20-%20Part%202.pdf)|Online
