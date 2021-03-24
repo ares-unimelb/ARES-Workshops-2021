@@ -11,3 +11,5 @@ Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/8567
 |03|[Phobos - Part 2](./slides/ws3.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=rxZV-F53qOA)|
 |04|[OpenRocket - Part 1](./slides/ws4.pdf)|Online - [Demo Rocket](./resources/demo_rocket.ork) - [See Recording](https://www.youtube.com/watch?v=RpNqq0m34yA)|
 |05|[OpenRocket - Part 2](./slides/ws4.pdf)|Online|
+|06|(No workshop)||
+|07|LaTeX|Online|
