@@ -12,4 +12,4 @@ Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/8567
 |04|[OpenRocket - Part 1](./slides/ws4.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=RpNqq0m34yA)|[Demo Rocket.ork](./resources/demo_rocket.ork)|
 |05|[OpenRocket - Part 2](./slides/ws5.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=5jfu5QF4BlI)|-|
 |06|<sup><sub>***No Workshop***</sub></sup>|-|-|
-|07|[LaTeX](./slides/ws6.pdf)|Online|-|
+|07|[LaTeX](./slides/ws6.pdf)|Online|[Overleaf Project](https://www.overleaf.com/project/6049c0f144ce1d8658ab4b1f)|
