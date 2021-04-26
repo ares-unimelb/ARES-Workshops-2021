@@ -13,3 +13,4 @@ Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/8567
 |05|[OpenRocket - Part 2](./slides/ws5.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=5jfu5QF4BlI)|-|
 |06|<sup><sub>***No Workshop***</sub></sup>|-|-|
 |07|[LaTeX](./slides/ws6.pdf)|Online|[Overleaf Project](https://www.overleaf.com/4869646264xdfntphtbtzq)|
+|07|[Onshape - Part 1](./slides/ws7.pdf)|Online|[Coffee Cup](https://learn.onshape.com/learn/course/fundamentals-part-design-using-part-studios/creating-basic-part-features/exercise-coffee-cup)[Wheel Rim](https://learn.onshape.com/learn/course/fundamentals-part-design-using-part-studios/creating-draft-shell-and-rib-features/exercise-wheel-rim)|
