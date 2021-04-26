@@ -12,5 +12,9 @@ Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/8567
 |04|[OpenRocket - Part 1](./slides/ws4.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=RpNqq0m34yA)|[Demo Rocket.ork](./resources/demo_rocket.ork)|
 |05|[OpenRocket - Part 2](./slides/ws5.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=5jfu5QF4BlI)|-|
 |06|<sup><sub>***No Workshop***</sub></sup>|-|-|
+<<<<<<< HEAD
 |07|[LaTeX](./slides/ws6.pdf)|Online|[Overleaf Project](https://www.overleaf.com/4869646264xdfntphtbtzq)|
 |07|[Onshape - Part 1](./slides/ws7.pdf)|Online|[Coffee Cup](https://learn.onshape.com/learn/course/fundamentals-part-design-using-part-studios/creating-basic-part-features/exercise-coffee-cup)[Wheel Rim](https://learn.onshape.com/learn/course/fundamentals-part-design-using-part-studios/creating-draft-shell-and-rib-features/exercise-wheel-rim)|
+=======
+|07|[LaTeX](./slides/ws6.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=T4Ux1DQ6-iM)|[Overleaf Project](https://www.overleaf.com/4869646264xdfntphtbtzq)|
+>>>>>>> 59ebb8043cbb908a21c577748be1291693940394
