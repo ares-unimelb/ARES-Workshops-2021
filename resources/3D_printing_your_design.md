@@ -21,7 +21,7 @@ When every file has been processed into .print format, follow [this link](http:/
 -   In the *filament information* section, leave material as [**PLA**](#)
 -   Choose any *colour* you like
 -   **Leave *quantity* as 1** (changing this will result in your print request being rejected)
--   Uplaod [**.print**]() file
+-   Uplaod [**.print**](#) file
 -   Leave [*Assembly required*](#) unchecked
 -   **In the *special* note section, enter the following**:  [*Print request for the Aerospace and Rocket Engineering Society (UMSU affiliated) – for educational use*](#)
 
@@ -31,4 +31,3 @@ Click Next & **take note of your request #** as you will need this when picking 
 Once printed, you can collect each successful print from the front of the Engineering Workshop in a brown paper bag with your request # on it.
 
 For any questions, please do not hesitate to contact us at ares-feit@unimelb.edu.au (alternatively, you can contact the MSE 3D printing department directly at mse-3dprint@unimelb.edu.au).
- 
