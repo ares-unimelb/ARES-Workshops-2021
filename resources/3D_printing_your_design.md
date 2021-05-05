@@ -21,7 +21,7 @@ When every file has been processed into .print format, follow [this link](http:/
 -   In the *filament information* section, leave material as [**PLA**](#)
 -   Choose any *colour* you like
 -   **Leave *quantity* as 1** (changing this will result in your print request being rejected)
--   Uplaod [**.print**](#) file
+-   Uplaod [**.print**]() file
 -   Leave [*Assembly required*](#) unchecked
 -   **In the *special* note section, enter the following**:  [*Print request for the Aerospace and Rocket Engineering Society (UMSU affiliated) – for educational use*](#)
 
