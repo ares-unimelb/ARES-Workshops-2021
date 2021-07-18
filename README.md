@@ -3,10 +3,12 @@
 
 Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/85679426097?pwd=Z1NqdjZQdzVKaVVFZmdTUmJrQVJpdz09)) or in-person at 5:30 pm on Wednesday. The online workshops will be uploaded to our [YouTube](https://www.youtube.com/channel/UCSasWA_I84a9hVrnzslJ3YQ) channel. Follow us on  [Facebook](https://www.facebook.com/unimelbARES) and [LinkedIn](https://www.linkedin.com/company/aerospace-rocket-engineering-society/posts/?feedView=all) for upcoming events, career opportunities and other exciting things.
 
+
 ***Semester 2 2021***
 |Date|Workshop|Method of Delivery|Shared Files|
 |---|---|---|---|
 |27/07/21|Meet & Greet|Online|-|
+
 
 ***Semester 1 2021***
 |Date|Workshop|Method of Delivery|Shared Files|
