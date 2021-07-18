@@ -3,10 +3,9 @@
 
 Workshops will be delivered either online ([zoom](https://unimelb.zoom.us/j/85679426097?pwd=Z1NqdjZQdzVKaVVFZmdTUmJrQVJpdz09)) or in-person at 5:30 pm on Wednesday. The online workshops will be uploaded to our [YouTube](https://www.youtube.com/channel/UCSasWA_I84a9hVrnzslJ3YQ) channel. Follow us on  [Facebook](https://www.facebook.com/unimelbARES) and [LinkedIn](https://www.linkedin.com/company/aerospace-rocket-engineering-society/posts/?feedView=all) for upcoming events, career opportunities and other exciting things.
 
-
-|Date|Workshop|Method of Delivery|Shared Files|
-|***Sem 1 2021***|---|---|---|
+|***Sem 1 2021***||||
 |---|---|---|---|
+|Date|Workshop|Method of Delivery|Shared Files|
 |03/03/21|[Meet & Greet](./slides/Sem1/S1-WS1-Meet-Greet.pdf)|In-person at South Lawn|-|
 |10/03/21|[Phobos - Part 1](./slides/Sem1/S1-WS2-Phobos-1.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=kmtaQ6ULfso&t=1489s)|-|
 |17/03/21|[Phobos - Part 2](./slides/Sem1/S1-WS3-Phobos-2.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=rxZV-F53qOA)|-|
