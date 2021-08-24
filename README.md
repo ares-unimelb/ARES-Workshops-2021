@@ -10,8 +10,9 @@ Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/8567
 |Date|Workshop|Method of Delivery|Shared Files|
 |---|---|---|---|
 |03/08/21|[Meet & Greet](./slides/Sem2/S2-WS1-Meet-Greet.pdf)|Online|-|
-|10/08/21|[Ansys CFD Part 1](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ)|-|
+|10/08/21|[Ansys CFD Part 1](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ)|[Rocket SpaceClaim File](./resources/rocket_enclosure.scdoc)|
 |24/08/21|[Ansys CFD Part 2](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online|-|
+|07/09/21|Ansys FEA|Online|-|
 
 
 </br>
