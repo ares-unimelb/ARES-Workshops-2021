@@ -1,7 +1,8 @@
-# ARES Workshops 🚀🚀
-### Weekly workshop slides created and presented by Cas, Ann, Ben & Hasan
+# ARES Workshops 2021 🚀🚀
+### Weekly workshop slides created and presented by ARES education team
+#### Contributors: Cas Kent, Ann Phan, Ben van der Veer & Hasan al Banna
 
-Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/85679426097?pwd=Z1NqdjZQdzVKaVVFZmdTUmJrQVJpdz09)) or in-person at 4:00 pm on Tuesdays. The online workshops will be uploaded to our [YouTube](https://www.youtube.com/channel/UCSasWA_I84a9hVrnzslJ3YQ) channel. Follow us on  [Facebook](https://www.facebook.com/unimelbARES) and [LinkedIn](https://www.linkedin.com/company/aerospace-rocket-engineering-society/posts/?feedView=all) for upcoming events, career opportunities and other exciting things.
+Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/85679426097?pwd=Z1NqdjZQdzVKaVVFZmdTUmJrQVJpdz09)) or in-person at 4:15 pm on Tuesdays. The online workshops will be uploaded to our [YouTube](https://www.youtube.com/channel/UCSasWA_I84a9hVrnzslJ3YQ) channel. Follow us on  [Facebook](https://www.facebook.com/unimelbARES) and [LinkedIn](https://www.linkedin.com/company/aerospace-rocket-engineering-society/posts/?feedView=all) for upcoming events, career opportunities and other exciting things.
 
 </br>
 
@@ -11,8 +12,8 @@ Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/8567
 |---|---|---|---|
 |03/08/21|[Meet & Greet](./slides/Sem2/S2-WS1-Meet-Greet.pdf)|Online|-|
 |10/08/21|[Ansys CFD Part 1](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ)|[Rocket SpaceClaim File](./resources/rocket_enclosure.scdoc)|
-|24/08/21|[Ansys CFD Part 2](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online|-|
-|07/09/21|Ansys FEA|Online|-|
+|24/08/21|[Ansys CFD Part 2](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ&t=267s)|-|
+|04/10/21|[Ansys FEA](./slides/Sem2/S2-WS3-FEA.pdf)|Online|-|
 
 
 </br>
