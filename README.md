@@ -13,7 +13,7 @@ Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/8567
 |03/08/21|[Meet & Greet](./slides/Sem2/S2-WS1-Meet-Greet.pdf)|Online|-|
 |10/08/21|[Ansys CFD Part 1](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ)|[Rocket SpaceClaim File](./resources/rocket_enclosure.scdoc)|
 |24/08/21|[Ansys CFD Part 2](./slides/Sem2/S2-WS2-Ansys-CFD.pdf)|Online - [See Recording](https://www.youtube.com/watch?v=ZT-HnA5RheQ&t=267s)|-|
-|04/10/21|[Ansys FEA](./slides/Sem2/S2-WS3-Ansys-FEA.pdf)|Online|[Bulkhead .sat](./resources/bulkhead.sat) [Bulkhead Wedge .scdoc](./resources/bulkhead_wedge.scdoc)|
+|04/10/21|[Ansys FEA](./slides/Sem2/S2-WS3-Ansys-FEA.pdf)|Online|<li>[Bulkhead .sat](./resources/bulkhead.sat)</li><li>[Bulkhead Wedge .scdoc](./resources/bulkhead_wedge.scdoc)</li>|
 
 
 </br>
@@ -31,3 +31,9 @@ Workshops will be delivered either online ([Zoom](https://unimelb.zoom.us/j/8567
 |05/05/21|Onshape - Part 2|Online - [See Recording](https://www.youtube.com/watch?v=AyrhEx65o34&t=4s)| <li>[Nosecone](./resources/part_Studio_1_Nosecone)</li><li>[Fin](./resources/part/part_Studio_1_Fin_can)</li>|
 |13/05/21|3D Printing|In-person at DnB Lab|[3D Printing Guideline](./resources/3D_printing_your_design.md)|
 |22/05/21|🚀 Launch 🚀|In-person at Druoin|[Tutorial: Turn bin bag into parachute](https://www.youtube.com/watch?v=TrWMO4ewJg0)|
+
+</br>
+
+***Semester 2 2020***
+
+KiCad workshop series hosted by Hugh Prescott [available on YouTube](https://www.youtube.com/watch?v=iwcWfE_k5lw&list=PL8ukSnvTFCsbaGZlDanAfgEgjfDljOE64)
